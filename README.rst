@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-blog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-blog?ref=badge_shield)
+
 ==============
 djangocms-blog
 ==============
@@ -83,3 +85,6 @@ See DjangoPackages for an updated list https://www.djangopackages.com/packages/p
 .. |CodeClimate| image:: https://codeclimate.com/github/nephila/djangocms-blog/badges/gpa.svg?style=flat-square
    :target: https://codeclimate.com/github/nephila/djangocms-blog
    :alt: Code Climate
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-blog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyakky%2Fdjangocms-blog?ref=badge_large)
